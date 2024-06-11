@@ -1,0 +1,9 @@
+{
+  "domain": "crestron_API",
+  "name": "Home Assistant Crestron 4 API Integraton",
+  "documentation": "https://github.com/jeffreyyoung55/Home-Assistant-Crestron-4-API-Integration/README.md",
+  "dependencies": [],
+  "codeowners": ["@jeffreyyoung55"],
+  "requirements": [],
+  "version": "0.1.0"
+}
